@@ -27,9 +27,9 @@ export default function Login() {
                 </div>
 
                 <input type="checkbox" name="rememberme" id="customControlInline"/>
-                <label className = "checkbox">Remember me</label><br/><br/>
+                <label className = "checkbox">remember me</label><br/><br/>
 
-                <button type="submit">Sign In</button>
+                <button type="submit">signin</button>
 
                 <p>Don't have an account? <span><a href="#">Sign Up</a></span></p>
                 <a href="#">Forgot your password?</a>
