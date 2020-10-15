@@ -16,8 +16,8 @@ export default function Login() {
 
                 <div className = "row">
                     <div className = "sec1">
-                        <label>Email</label><br/><br/><br/>
-                        <label>Password</label><br/>
+                        <label>email</label><br/><br/><br/>
+                        <label>password</label><br/>
                     </div>
 
                     <div className = "sec2">
