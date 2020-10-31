@@ -10,7 +10,7 @@ export default function Login() {
 
             <p className="p1">Welcome Back!</p>
 
-            <p className="p2">SIGN IN</p>
+            <p className="p2">SIGN-IN</p>
 
             <form name="form">
 
